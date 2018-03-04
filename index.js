@@ -21,5 +21,5 @@ function iLoveBeatles(num) {
   do {
     arr+=`I love the Beatles!`;
     num++;
-  }
+  } while {
 }
